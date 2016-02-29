@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm Patrick and I am a QA Automation Engineer from Los Angeles currently working in Europe.
+This blog exists for the simple reason that I want to document some of the automation issues I have
+encountered that were not well documented or listed when searching the google or StackOverflow.
+I am primarily going to be writing about using protractor but my background is in Java so please feel
+free to email me any questions about protractor or the Java Selenium WebDriver bindings.
